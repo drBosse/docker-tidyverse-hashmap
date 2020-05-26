@@ -1,4 +1,4 @@
-FROM praqma/toggler:0.2.2.5
+FROM drbosse/toggler:0.3.0.1
 
 USER root
 RUN install2.r extrafont \
