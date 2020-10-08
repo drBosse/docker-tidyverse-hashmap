@@ -1,4 +1,4 @@
-FROM drbosse/toggler:0.3.0.3
+FROM drbosse/toggler:0.3.0.4
 
 USER root
 RUN install2.r extrafont \
